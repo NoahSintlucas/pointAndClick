@@ -34,7 +34,7 @@ gameWindow.onclick = function (e) {
                 break;
             case "door2":
                 //something insert here
-                showSpeech(mainCharacterSpeech, characterAudio, "Here is your goddamn key...<br> Now let me fucking rest...");
+                showSpeech(mainCharacterSpeech, characterAudio, "Here is that goddamn key...<br> Now lets let this guy rest...");
                 door1Img.style.opacity =1;
                 break;
             case "tree":
